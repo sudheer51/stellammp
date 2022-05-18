@@ -10,3 +10,5 @@
 4. Learn Github notes->https://www.youtube.com/results?search_query=totalqa+github
 5. Explain the project in the interviews
 		https://www.youtube.com/watch?v=xSN3wzj9Kn8
+6. import the git hub project into the eclipse
+	https://github.com/sudheer51/stellammp.git
