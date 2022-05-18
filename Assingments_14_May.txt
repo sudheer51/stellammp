@@ -1,0 +1,12 @@
+1. Page Object wiki - >https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
+2. Download the latest code from dropbox -> execute it and ensure the testcase is pass
+3.  Registration Scenario
+
+	http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/registration.php
+
+
+	a. Manually validate the scenario by doing exploratory testing/ adhoc / random testing
+	b. Automate the Scenario in Page Object Model
+4. Learn Github notes->https://www.youtube.com/results?search_query=totalqa+github
+5. Explain the project in the interviews
+		https://www.youtube.com/watch?v=xSN3wzj9Kn8
