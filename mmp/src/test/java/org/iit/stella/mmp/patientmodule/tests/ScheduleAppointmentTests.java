@@ -14,6 +14,7 @@ public class ScheduleAppointmentTests extends TestBaseClass {
 		 
 		HelperClass helperObj = new HelperClass(driver);
 		helperObj.launchBrowser("value of Patient Url" + pro.getProperty("patienturl"));
+		System.out.println("Printing the patient url");
 		helperObj.patientLogin(pro.getProperty("patientusername"),pro.getProperty("patientpassword"));
 		helperObj.moduleNavigation("Schedule Appointment");
 		ScheduleAppointmentPage sPage = new ScheduleAppointmentPage(driver);
