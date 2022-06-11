@@ -22,6 +22,7 @@ public class ScheduleAppointmentTests extends TestBaseClass {
 		HashMap<String,String> actualHMap = sPage.fetchPatientDataValues();
 		boolean result = actualHMap.equals(expectedHMap);
 		Assert.assertTrue(result);
+		System.out.println("TC Executed Successfully");
 		
 		
 	}
